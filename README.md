@@ -1,4 +1,6 @@
 # Todo-Task-List-with-prioritization
+![Screenshot 2024-11-27 123909](https://github.com/user-attachments/assets/288c152d-afa5-4c65-95f8-59b086fa8528)
+![Screenshot 2024-11-27 123944](https://github.com/user-attachments/assets/c48d5726-2d9d-4e73-873c-2d0f31b4408e)
 Key Features:
 User Authentication:
 Users can sign up, log in, and manage their accounts with individual user authentication (using ASP.NET Core Identity).
